@@ -6,6 +6,8 @@
 
 - The user can also filter the watches by category (e.g. luxury or sports), as well as by the maximum price bar in the left corner. The page then displays the updated watch catalog to the user, containing a photo, name and price for each model that matches the filter;
 
-- The catalog contains a small number of watches whose prices range from R$16 to R$200;
+- Currently, the catalog contains only six  small number of watches registered on the website whose prices range from R$16 to R$200;
 
 - This project was developed in JavaScript, HTML and CSS.
+
+- Watches list by price and category: Invicta Men's Pro Driver ($74, Dress); Invicta Men's Pro Driver ($74, Dress); Timex Men's Expedition Scout ($40, Sport); Breitling Superocean Heritage ($200, Luxury); Casio Classic Resin Strap ($16, Sport); Garmin Venu Smartwatch ($74, Casual).
