@@ -8,6 +8,6 @@
 
 - Currently, the website catalog contains only six registered watches whose prices range from $16 to $200;
 
-- Watches listed by price (description, price and category): Casio Classic Resin Strap ($16, Sport); Timex Men's Expedition Scout ($40, Sport); Garmin Venu Smartwatch ($74, Casual); Invicta Men's Pro Driver ($74, Dress); Invicta Men's Pro Driver ($74, Dress); Breitling Superocean Heritage ($200, Luxury);
+- Watches listed by price (description, price and category): Casio Classic Resin Strap ($16, Sport); Timex Men's Expedition Scout ($40, Sport); Garmin Venu Smartwatch ($74, Casual); Invicta Men's Pro Driver ($74, Dress); Invicta Men's Pro Driver 2 ($74, Dress); Breitling Superocean Heritage ($200, Luxury);
 
 - This project was developed in JavaScript, HTML and CSS.
