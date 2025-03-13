@@ -6,6 +6,8 @@
 
 - The user can also filter the watches by category (e.g. luxury or sports), as well as by the maximum price bar in the left corner. The page then displays the updated watch catalog to the user, containing a photo, name and price for each model that matches the filter;
 
-- Currently, the website catalog contains only six registered watches whose prices range from $16 to $200;
+- There are 5 watch categories: All, Casual, Sport, Dress and Luxury; 
 
-- Watches listed by price (description, price and category): Casio Classic Resin Strap ($16, Sport); Timex Men's Expedition Scout ($40, Sport); Garmin Venu Smartwatch ($74, Casual); Invicta Men's Pro Driver ($74, Dress); Invicta Men's Pro Driver 2 ($74, Dress); Breitling Superocean Heritage ($200, Luxury);
+- Currently, the website catalog contains 15 models of watches whose prices range from $16 to $200;
+
+- The watch images were obtained from the Amazon e-commerce website and the price values ​​may not be updated as they were converted based on the announcement for the Brazilian marketplace and converted into currency, from real to commercial dollar.
