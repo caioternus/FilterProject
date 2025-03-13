@@ -8,6 +8,6 @@
 
 - There are 5 watch categories: All, Casual, Sport, Dress and Luxury; 
 
-- Currently, the website catalog contains 15 models of watches whose prices range from $16 to $200;
+- Currently, the website catalog contains 20 models of watches whose prices range from $16 to $320;
 
-- The watch images were obtained from the Amazon e-commerce website and the price values ​​may not be updated as they were converted based on the announcement for the Brazilian marketplace and converted into currency, from real to commercial dollar.
+- The watch images and approximated prives were obtained from the Amazon e-commerce website and the so product market price values ​​may vary.
