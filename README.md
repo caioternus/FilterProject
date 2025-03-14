@@ -12,4 +12,4 @@
 
 - The images and approximated prices for each watch model were obtained from the Amazon e-commerce website, and then the product market price values ​​may vary over time;
 
-- The files "FilterProject.jpeg" and "FilterProject2.jpeg" show the final screen of this project to the end user.
+- The files "FilterProject.jpg" and "FilterProject2.jpg" show the final screen of this project to the end user.
