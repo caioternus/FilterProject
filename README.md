@@ -2,9 +2,9 @@
   
 - The user can filter product options by name, category and price range;
 
-- The user can search for the watch of interest by typing the name into the search box in the upper left corner, and the page will then display only the watch options that match the description;
+- The user can search for the watch of interest by typing the name into the search menu in the upper left corner, and the page will then display only the watch options that match the description;
 
-- The user can also filter the watches by category (e.g. luxury or sports), as well as by the maximum price bar in the left corner. The page then displays the updated watch catalog to the user, containing a photo, name and price for each model that matches the filter;
+- The user can also filter the watches by category (e.g. luxury or sports), as well as by the price range input in the left corner. The page then displays the updated watch catalog to the user, containing a photo, name and price for each model that matches the filter;
 
 - There are 5 watch categories: All, Casual, Sport, Dress and Luxury; 
 
