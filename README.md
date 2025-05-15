@@ -1,6 +1,6 @@
 - This project shows a responsive web page for product catalog (ex: watches) developed in JavaScript, HTML and CSS;
   
-- The user can filter product options by name, category and price range;
+- The user can filter bar function for selecting product options by name, category and price range;
 
 - The user can search for the watch of interest by typing the name into the search menu in the upper left corner, and the page will then display only the watch options that match the description;
 
